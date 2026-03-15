@@ -1,0 +1,7 @@
+Name: H2
+
+Dimension: (512, 512, 128)
+
+Variable: Density
+
+Description: H2 molecular density data from simulation.
