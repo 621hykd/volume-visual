@@ -1,6 +1,5 @@
-# Exclude large volume data files (>100MB)
-# These files will be sent to teacher manually
-volume/volume.dat
-volume/H2.dat
-*.zip
-*.npy
+# Exclude large files (>100MB) - to be sent manually if needed
+# *.zip
+# *.npy
+# volume/volume.dat
+# volume/H2.dat
